@@ -41,6 +41,8 @@ conda install nome_da_biblioteca
 Para isso, basta importar o dataset de exemplo no começo dos notebooks com o comando:
 
 ```Python
+import pandas as pd
+
 corpus = pd.read_csv('../sample_data.csv', sep=',', encoding='utf-8', index_col=0)
 ```
 
