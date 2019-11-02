@@ -1,5 +1,5 @@
 # InfoRecovery-Repo
-Repositório da disciplina de Sistemas de Recuperação de Informação do curso de Mestrado em Matemática Aplicada da [EMAP-FGV](https://emap.fgv.br/mestrado/modelagem-matematica).
+Repositório da disciplina de Sistemas de Recuperação de Informações do curso de Mestrado em Matemática Aplicada da [EMAP-FGV](https://emap.fgv.br/mestrado/modelagem-matematica).
 
 - Professor: [Flávio Codeço Coelho](https://emap.fgv.br/corpo-docente/flavio-codeco-coelho)
 
@@ -15,7 +15,7 @@ O conjunto de dados têm a seguinte estrutura:
 
 ![](dataframe.png) 
 
-A principal coluna de interesse é `reviewText`, que contém o texto escrito pelo usuário do site a respeito de um determinado produto eletrônico. É sobre os textos presente nessa coluna que vamos aplicar técnicas de *Information Recovery*. 
+A principal coluna de interesse é `reviewText`, que contém textos escritos por usuários do site a respeito de um determinado produto eletrônico. É sobre os textos presente nessa coluna que vamos aplicar técnicas de *Information Recovery*. 
 
 
 ## Requisitos
