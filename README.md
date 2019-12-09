@@ -23,7 +23,7 @@ A principal coluna de interesse é `reviewText`, que contém textos escritos por
 Para executar os notebooks presentes nas pastas _`hw*`_ (criados em resposta aos *homeworks* dessa disciplina), são necessárias as seguintes bibliotecas em Python 3:
 
 ```
-nltk - collections - os - string - pandas - whoosh  
+nltk - collections - os - string - pandas - whoosh - gensim - enchant
 ```
 
 A maioria delas pode ser instalada com o comando:
